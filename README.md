@@ -12,3 +12,10 @@ CodeWars, Leetcode ect.
 - Sono suddivisi per concetti (variabili, tipi di dati, cicli , condizioni, oggetti ect.)
 
 - Ogni esercizio è corredato da commenti che ho aggiunto per capire meglio il mio pensiero logico
+
+
+## TABELLA LINGUAGGI
+
+| Linguaggio  |	  Link 	    |
+|-------------| ----------- |
+| Python  	  |  [Python](https://github.com/DarkFoxxIT/Esercizi-di-Programmazione/tree/master/Python) 	|   
