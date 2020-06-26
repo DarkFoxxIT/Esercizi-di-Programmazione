@@ -5,15 +5,15 @@
  */
 var removeElement = function(nums, val) {
 
-    for(let v = 0;  v < nums.length; v++){ 
+    for(let v = 0;  v < nums.length; v++){  //Loop array 
         
-        if(nums[v] === val){
-            nums.splice(v,1);
-            v--;
-        }
+        if(nums[v] === val){  // v is equal val ? 
+            nums.splice(v,1);  //remove value inside arr at specif index
+            v--;         // jump back index
+        } 
   
     }
-    return nums.length;
+    return nums.length; // How much is long?
 };
 
 //Input
