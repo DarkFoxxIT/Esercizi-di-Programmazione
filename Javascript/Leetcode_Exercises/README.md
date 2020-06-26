@@ -4,3 +4,4 @@
 
 1. Single Number
 2. Backspace String Compare
+3. Remove Element
