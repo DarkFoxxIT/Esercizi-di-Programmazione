@@ -6,3 +6,4 @@
 2. Backspace String Compare
 3. Remove Element
 4. Two Sum
+5. Reverse Integer
