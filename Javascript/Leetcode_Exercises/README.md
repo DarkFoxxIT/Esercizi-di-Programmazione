@@ -7,3 +7,4 @@
 3. Remove Element
 4. Two Sum
 5. Reverse Integer
+6. Remove Duplicates from Sorted Array
