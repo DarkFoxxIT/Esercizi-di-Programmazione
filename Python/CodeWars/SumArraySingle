@@ -13,13 +13,13 @@ import collections
 arr = [4,5,7,5,4,8]
 
 occ = collections.Counter(arr) // conta le occorrenze della lista occ = {4: 2 , 5: 2 , 7 : 1 , 8: 1} 
-count = 0
-new_list = []
-for n in occ.values():
 
-  if n == 1:
+new_list = []
+for (key, value) in occ.items():
+
+ if value == 1:
     print(n)  #da finire -> stampa le occorrenze 
 
 
-
-
+    
+   
