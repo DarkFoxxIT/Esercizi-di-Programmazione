@@ -11,14 +11,17 @@ More examples in the test cases.
 
 import collections 
 arr = [4,5,7,5,4,8]
-
+count = 1
 occ = collections.Counter(arr) // conta le occorrenze della lista occ = {4: 2 , 5: 2 , 7 : 1 , 8: 1} 
 
-new_list = []
+
 for (key, value) in occ.items():
 
- if value == 1:
-    print(n)  #da finire -> stampa le occorrenze 
+ if value == count:
+    print(key)  #da finire -> restituisce 7 8 
+    
+    
+    
 
 
     
