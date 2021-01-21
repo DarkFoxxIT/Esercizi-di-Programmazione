@@ -20,3 +20,4 @@ CodeWars, Leetcode ect.
 |-------------| ----------- |
 | Python  	  |  [Python](https://github.com/DarkFoxxIT/Esercizi-di-Programmazione/tree/master/Python) 	|   
 | Javascript  	  |  [Javascript](https://github.com/DarkFoxxIT/Esercizi-di-Programmazione/tree/master/Javascript) 	|
+| C#  	  |  [C#](https://github.com/DarkFoxxIT/Esercizi-di-Programmazione/tree/master/CSharp) 	|
